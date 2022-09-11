@@ -1,0 +1,57 @@
+.test_bg{
+    background-color: #581845;
+}
+.center{
+    align-items: center;
+    text-align: center;
+}
+.right{
+    text-align:right ;
+}
+.button{
+    background-color: #581845 ; /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 39px;
+}
+.loginbutton{
+    background-color: white ; /* Green */
+    color: #581845;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 39px;
+    
+}
+.container{
+    align-self: center;
+    align-items: center;
+}
+.title{
+    background-color: blueviolet;
+    color: white;
+}
+div.loginbutton{
+    position: fixed;
+
+}
+span{
+    margin-right: 0%;
+    position:fixed;
+    top:0%
+    
+}
+.width{
+    width:200px;
+}
+.form-control {
+    display: inline-block;}
+.color_red{
+    background-color: red;
+}
